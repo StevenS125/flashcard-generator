@@ -1,0 +1,22 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "generator of flashcards for HW 11",
+  "main": "generator.js",
+  "scripts": {
+    "test": "1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StevenS125/flashcard-generator.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Steven Snyder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StevenS125/flashcard-generator/issues"
+  },
+  "homepage": "https://github.com/StevenS125/flashcard-generator#readme"
+}
